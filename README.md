@@ -1,1 +1,1 @@
-# 24_01_Exercise
+# Display only after successful push
